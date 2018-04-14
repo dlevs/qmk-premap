@@ -160,6 +160,7 @@ _ KC_UNDERSCORE
 ```
 
 ## Media
+
 ```keycodes
 MUTE KC_AUDIO_MUTE
 VOL+ KC_AUDIO_VOL_UP
@@ -168,6 +169,7 @@ VOL- KC_AUDIO_VOL_DOWN
 ```
 
 ## System
+
 ```keycodes
 ⌽ PWR KC_SYSTEM_POWER
 ```
