@@ -1,3 +1,5 @@
+TODO: Allow the number of characters per cell to be defined as a comment.
+
 ```keymap
 # layer: _DVORAK
 
