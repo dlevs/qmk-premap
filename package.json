@@ -13,14 +13,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bucker": "^1.1.1",
     "child-process-promise": "^2.2.1",
     "chokidar": "^2.0.3",
-    "clone-regexp": "^1.0.1",
     "commander": "^2.15.1",
     "execall": "^1.0.0",
     "fs-extra": "^5.0.0",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "ora": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
